@@ -12,9 +12,14 @@
 
 
 ## circuit diagram
+<img width="1600" height="871" alt="image" src="https://github.com/user-attachments/assets/39bb098e-f003-4fb7-9997-242e3b2e106d" />
+<img width="1600" height="1265" alt="image" src="https://github.com/user-attachments/assets/decf211f-a807-4dd2-8119-dab6a41f3b9e" />
 
 ## graph
+<img width="1600" height="792" alt="image" src="https://github.com/user-attachments/assets/efee9081-d2d7-4e1b-a21a-4ae1aa215c1c" />
 
 ## calculation
+<img width="1600" height="619" alt="image" src="https://github.com/user-attachments/assets/55a4377b-7e82-4cc0-bbef-c3a12be4401b" />
 
 ## result
+<img width="1600" height="503" alt="image" src="https://github.com/user-attachments/assets/acac88aa-0d94-4354-bf04-5acb8845028d" />
