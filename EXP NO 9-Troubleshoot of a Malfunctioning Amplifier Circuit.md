@@ -14,4 +14,5 @@
 <img width="1600" height="1108" alt="image" src="https://github.com/user-attachments/assets/3d1e2aee-e7e0-429b-917f-ed335852f5b7" />
 
 ## result
-![Uploading image.png…]()
+<img width="1600" height="400" alt="image" src="https://github.com/user-attachments/assets/d797223f-8bbb-4357-9035-5f321267ccd4" />
+
