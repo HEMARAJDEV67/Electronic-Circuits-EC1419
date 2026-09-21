@@ -8,7 +8,10 @@
 
 
 ## Tabulation
+<img width="958" height="1599" alt="image" src="https://github.com/user-attachments/assets/313cb47d-4236-4d64-b2dc-331eca551981" />
 
 ## attach semilog graph
+<img width="1600" height="1108" alt="image" src="https://github.com/user-attachments/assets/3d1e2aee-e7e0-429b-917f-ed335852f5b7" />
 
 ## result
+![Uploading image.png…]()
